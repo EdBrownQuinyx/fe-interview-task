@@ -6,3 +6,8 @@
 If you complete this, extra bonus points for:
 - Adding filtering / sorting
 - Add a danger indicator in the UI if the wind is above 80
+
+
+# Example output
+
+![A mushroom-head robot drinking bubble tea](weatherList.png 'Codey, the Codecademy mascot, drinking bubble tea')
