@@ -12,17 +12,19 @@ const Emojis = {
     stormy: "⛈️"
 } as const;
 
+type TForecastItem =   { 
+    tempC: number, 
+    wind: { 
+        speed: number, 
+        direction: typeof WindDirections[number]
+    },
+    conditions: typeof Conditions[number]
+}
+
 type TWeatherItem =   { 
     cityName: string, 
     latLon: [number, number], 
-    forecast: { 
-        tempC: number, 
-        wind: { 
-            speed: number, 
-            direction: typeof WindDirections[number]
-        },
-        conditions: typeof Conditions[number][]
-    }[]
+    forecast: TForecastItem[]
 }
 
 const App: React.FC = () => {
