@@ -1,0 +1,67 @@
+[
+  {
+    "cityName": "Londinium",
+    "latLon": [51.5074, -0.1278],
+    "forecast": [
+      { "tempC": 15, "wind": { "speed": 12, "direction": "N" }, "conditions": ["cloudy"] },
+      { "tempC": 17, "wind": { "speed": 10, "direction": "NE" }, "conditions": ["sunny"] },
+      { "tempC": 14, "wind": { "speed": 8, "direction": "NW" }, "conditions": ["rain"] },
+      { "tempC": 16, "wind": { "speed": 9, "direction": "N" }, "conditions": ["cloudy"] },
+      { "tempC": 18, "wind": { "speed": 11, "direction": "NE" }, "conditions": ["sunny"] },
+      { "tempC": 8, "wind": { "speed": 85, "direction": "W" }, "conditions": ["stormy"] },
+      { "tempC": 7, "wind": { "speed": 92, "direction": "N" }, "conditions": ["stormy"] }
+    ]
+  },
+  {
+    "cityName": "New Amsterdam",
+    "latLon": [40.7128, -74.0060],
+    "forecast": [
+      { "tempC": 22, "wind": { "speed": 8, "direction": "E" }, "conditions": ["sunny"] },
+      { "tempC": 24, "wind": { "speed": 10, "direction": "NE" }, "conditions": ["sunny"] },
+      { "tempC": 21, "wind": { "speed": 7, "direction": "E" }, "conditions": ["cloudy"] },
+      { "tempC": 23, "wind": { "speed": 6, "direction": "SE" }, "conditions": ["sunny"] },
+      { "tempC": 25, "wind": { "speed": 9, "direction": "E" }, "conditions": ["sunny"] },
+      { "tempC": 20, "wind": { "speed": 8, "direction": "NE" }, "conditions": ["rain"] },
+      { "tempC": 22, "wind": { "speed": 7, "direction": "E" }, "conditions": ["sunny"] }
+    ]
+  },
+  {
+    "cityName": "Edo",
+    "latLon": [35.6895, 139.6917],
+    "forecast": [
+      { "tempC": 28, "wind": { "speed": 10, "direction": "S" }, "conditions": ["sunny"] },
+      { "tempC": 30, "wind": { "speed": 12, "direction": "SE" }, "conditions": ["sunny"] },
+      { "tempC": 27, "wind": { "speed": 11, "direction": "S" }, "conditions": ["sunny"] },
+      { "tempC": 26, "wind": { "speed": 9, "direction": "SW" }, "conditions": ["cloudy"] },
+      { "tempC": 29, "wind": { "speed": 10, "direction": "S" }, "conditions": ["sunny"] },
+      { "tempC": 28, "wind": { "speed": 12, "direction": "SE" }, "conditions": ["sunny"] },
+      { "tempC": 27, "wind": { "speed": 11, "direction": "S" }, "conditions": ["cloudy"] }
+    ]
+  },
+  {
+    "cityName": "Atlantis",
+    "latLon": [-33.8688, 151.2093],
+    "forecast": [
+      { "tempC": 20, "wind": { "speed": 108, "direction": "W" }, "conditions": ["stormy"] },
+      { "tempC": 17, "wind": { "speed": 18, "direction": "SW" }, "conditions": ["cloudy"] },
+      { "tempC": 19, "wind": { "speed": 15, "direction": "S" }, "conditions": ["sunny"] },
+      { "tempC": 16, "wind": { "speed": 22, "direction": "SW" }, "conditions": ["stormy"] },
+      { "tempC": 18, "wind": { "speed": 20, "direction": "W" }, "conditions": ["foggy"] },
+      { "tempC": 17, "wind": { "speed": 19, "direction": "S" }, "conditions": ["cloudy"] },
+      { "tempC": 18, "wind": { "speed": 50, "direction": "SW" }, "conditions": ["stormy"] }
+    ]
+  },
+  {
+    "cityName": "Gotham",
+    "latLon": [40.7128, -74.0060],
+    "forecast": [
+      { "tempC": 12, "wind": { "speed": 5, "direction": "W" }, "conditions": ["cloudy"] },
+      { "tempC": 14, "wind": { "speed": 6, "direction": "NW" }, "conditions": ["cloudy"] },
+      { "tempC": 13, "wind": { "speed": 5, "direction": "W" }, "conditions": ["rain"] },
+      { "tempC": 15, "wind": { "speed": 4, "direction": "SW" }, "conditions": ["cloudy"] },
+      { "tempC": 12, "wind": { "speed": 5, "direction": "W" }, "conditions": ["cloudy"] },
+      { "tempC": 13, "wind": { "speed": 6, "direction": "NW" }, "conditions": ["rain"] },
+      { "tempC": 14, "wind": { "speed": 5, "direction": "W" }, "conditions": ["cloudy"] }
+    ]
+  }
+]
