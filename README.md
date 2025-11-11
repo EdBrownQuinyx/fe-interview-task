@@ -10,4 +10,4 @@ If you complete this, extra bonus points for:
 
 # Example output
 
-![A mushroom-head robot drinking bubble tea](weatherList.png 'Codey, the Codecademy mascot, drinking bubble tea')
+![An image of a list of forecasts](weatherList.png 'An image of a list of forecasts')
